@@ -29,6 +29,8 @@
 
 - (void)setEntryDate:(NSCalendarDate *)date
 {
+	[date retain];
+	[entryDate release];
 	entryDate = date;
 }
 
@@ -49,11 +51,8 @@
 
 - (NSString *)description
 {
-	NSString *result;
-	result = [[NSString alloc] initWithFormat:@"%@Winning numbers are %hi and %hi.",
-			  [entryDate descriptionWithCalendarFormat:@"%B %e, %Y: "],
-			  firstNumber, secondNumber];
-	return result;
+	return [NSString stringWithFormat:@"%@ = %d and %d",
+			[self entryDate], [self firstNumber], [self secondNumber]];
 }
 
 - (void)dealloc
