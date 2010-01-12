@@ -4,6 +4,9 @@
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 779E9D2010FC587000917CEC /* SpeakLine */;
 		activeTarget = 8D1107260486CEB800E47090 /* SpeakLine */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* SpeakLine */,
+		);
 		codeSenseManager = 779E9D3010FC587900917CEC /* Code sense */;
 		executables = (
 			779E9D2010FC587000917CEC /* SpeakLine */,
