@@ -1,7 +1,7 @@
 Tlottery
 v7
 r0
-t284958454.281528
+t284958718.212616
 cCheck dependencies
 cProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-aoebzicvkexzksbmpxxheziijqht/lottery_Prefix.pch.gch lottery_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/lottery.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
@@ -29,24 +29,24 @@ t1247808459
 s11760704
 
 N/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/LotteryEntry.h
-c000000004B4BE76F0000000000000192
-t1263265647
-s402
+c000000004B4BE85400000000000001C5
+t1263265876
+s453
 i<Foundation/Foundation.h>
 
 N/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/LotteryEntry.m
-c000000004B4BE73F00000000000002F0
-t1263265599
-s752
+c000000004B4BE876000000000000032C
+t1263265910
+s812
 i"LotteryEntry.h"
 
 N/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug/lottery
-t1263265654
-s16088
+t1263265918
+s16112
 
 N/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o
-t1263265654
-s12760
+t1263265918
+s12992
 
 N/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.LinkFileList
 c000000004B4BDD7F0000000000000161
@@ -54,13 +54,13 @@ t1263263103
 s353
 
 N/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o
-t1263265654
-s9756
+t1263265918
+s9836
 
 N/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/lottery.m
-c000000004B4BE75E0000000000000307
-t1263265630
-s775
+c000000004B4BE828000000000000032C
+t1263265832
+s812
 i<Foundation/Foundation.h>
 i"LotteryEntry.h"
 
@@ -76,11 +76,11 @@ s41405200
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies284958454#284958454#0(0"0(0#1#0"4300882208#0"0#
+lSLF07#2@18"Check dependencies284958718#284958718#0(0"0(0#1#0"4300882208#0"0#
 
 CCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/LotteryEntry.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s284958454.121356
-e284958454.263013
+s284958718.031325
+e284958718.194925
 r1
 xCompileC
 xbuild/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o
@@ -89,11 +89,11 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@124"Compile /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/LotteryEntry.m284958454#284958454#0(0"0(0#0#116"/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/LotteryEntry.m4300882208#2159"    cd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap -F/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug/include -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-aoebzicvkexzksbmpxxheziijqht/lottery_Prefix.pch -c /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/LotteryEntry.m -o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o0#
+lSLF07#2@124"Compile /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/LotteryEntry.m284958718#284958718#0(0"0(0#0#116"/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/LotteryEntry.m4300882208#2159"    cd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap -F/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug/include -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-aoebzicvkexzksbmpxxheziijqht/lottery_Prefix.pch -c /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/LotteryEntry.m -o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o0#
 
 CCompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/lottery.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s284958454.120481
-e284958454.242580
+s284958718.030425
+e284958718.160279
 r1
 xCompileC
 xbuild/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o
@@ -102,17 +102,17 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@119"Compile /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/lottery.m284958454#284958454#0(0"0(0#0#111"/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/lottery.m4300882208#2149"    cd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap -F/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug/include -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-aoebzicvkexzksbmpxxheziijqht/lottery_Prefix.pch -c /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/lottery.m -o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o0#
+lSLF07#2@119"Compile /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/lottery.m284958718#284958718#0(0"0(0#0#111"/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/lottery.m4300882208#2149"    cd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap -F/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug/include -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-aoebzicvkexzksbmpxxheziijqht/lottery_Prefix.pch -c /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/lottery.m -o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o0#
 
 CLd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug/lottery normal x86_64
-s284958454.263099
-e284958454.281479
+s284958718.195028
+e284958718.212567
 r1
 xLd
 x/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug/lottery
 xnormal
 xx86_64
-lSLF07#2@126"Link /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug/lottery284958454#284958454#0(0"0(0#0#0"4300882208#835"    cd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug -F/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug -filelist /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug/lottery0#
+lSLF07#2@126"Link /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug/lottery284958718#284958718#0(0"0(0#0#0"4300882208#835"    cd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug -F/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug -filelist /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter3_Objective_C/lottery/build/Debug/lottery0#
 
 CProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lottery_Prefix-aoebzicvkexzksbmpxxheziijqht/lottery_Prefix.pch.gch lottery_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s284953072.520320

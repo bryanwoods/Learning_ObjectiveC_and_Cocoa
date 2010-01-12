@@ -21,7 +21,8 @@ int main (int argc, const char * argv[])
 									   minutes:0
 									   seconds:0];
 		
-		LotteryEntry *newEntry = [[LotteryEntry alloc] init];
+		LotteryEntry *newEntry = [[LotteryEntry alloc]
+								  initWithEntryDate:iWeeksFromNow];
 		[newEntry setEntryDate:iWeeksFromNow];
 		[array addObject:newEntry];
 	}
