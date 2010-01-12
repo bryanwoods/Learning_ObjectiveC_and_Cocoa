@@ -30,7 +30,7 @@ int main (int argc, const char * argv[])
 	for (LotteryEntry *entryToPrint in array) {
 		NSLog(@"%@", entryToPrint);
 	}
-	
+		
 	[pool drain];
 	return 0;
 }
