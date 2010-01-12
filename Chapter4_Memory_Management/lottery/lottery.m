@@ -26,10 +26,12 @@ int main (int argc, const char * argv[])
 		[newEntry setEntryDate:iWeeksFromNow];
 		[array addObject:newEntry];
 	}
+	now = nil;
 	
 	for (LotteryEntry *entryToPrint in array) {
 		NSLog(@"%@", entryToPrint);
 	}
+	array = nil;
 		
 	[pool drain];
 	NSLog(@"GC = %@", [NSGarbageCollector defaultCollector]);
