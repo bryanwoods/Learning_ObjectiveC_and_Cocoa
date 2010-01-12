@@ -14,7 +14,7 @@ int main (int argc, const char * argv[])
 	int i;
 	for (i = 0; i < 10; i++) {
 		NSCalendarDate *iWeeksFromNow;
-		iWeeksFromNow = [now dateByAddingYears:0 
+		iWeeksFromNow = [now dateByAddingYears:0
 										months:0
 										  days:(i * 7) 
 										 hours:0
@@ -22,7 +22,6 @@ int main (int argc, const char * argv[])
 									   seconds:0];
 		
 		LotteryEntry *newEntry = [[LotteryEntry alloc] init];
-		[newEntry prepareRandomNumbers];
 		[newEntry setEntryDate:iWeeksFromNow];
 		[array addObject:newEntry];
 	}
