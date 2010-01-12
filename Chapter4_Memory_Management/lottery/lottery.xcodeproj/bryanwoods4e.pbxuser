@@ -515,7 +515,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* lottery.m */;
 		name = "lottery.m: 35";
 		rLen = 0;
-		rLoc = 884;
+		rLoc = 940;
 		rType = 0;
 		vrLen = 871;
 		vrLoc = 0;
@@ -525,7 +525,7 @@
 		fRef = 08FB7796FE84155DC02AAC07 /* lottery.m */;
 		name = "lottery.m: 34";
 		rLen = 0;
-		rLoc = 807;
+		rLoc = 863;
 		rType = 0;
 		vrLen = 897;
 		vrLoc = 0;

@@ -25,12 +25,15 @@ int main (int argc, const char * argv[])
 								  initWithEntryDate:iWeeksFromNow];
 		[newEntry setEntryDate:iWeeksFromNow];
 		[array addObject:newEntry];
+		[newEntry release];
 	}
+	[now release];
 	now = nil;
 	
 	for (LotteryEntry *entryToPrint in array) {
 		NSLog(@"%@", entryToPrint);
 	}
+	[array release];
 	array = nil;
 		
 	[pool drain];

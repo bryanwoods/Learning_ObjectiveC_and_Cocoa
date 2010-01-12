@@ -21,6 +21,7 @@
 	if (![super init])
 		return nil;
 	
+	entryDate = [theDate retain];
 	firstNumber = random() % 100 + 1;
 	secondNumber = random() % 100 + 1;
 	return self;
@@ -53,6 +54,13 @@
 			  [entryDate descriptionWithCalendarFormat:@"%B %e, %Y: "],
 			  firstNumber, secondNumber];
 	return result;
+}
+
+- (void)dealloc
+{
+	NSLog(@"deallocing %@", self);
+	[entryDate release];
+	[super dealloc];
 }
 
 @end
