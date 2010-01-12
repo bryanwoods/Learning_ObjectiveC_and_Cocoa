@@ -1,196 +1,0 @@
-TRandomApp
-v7
-r0
-t284929283.317674
-cCheck dependencies
-cProcessInfoPlistFile /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist RandomApp-Info.plist
-cCopyStringsFile /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-cCompileXIB /Users/bryanwoods4e/Desktop/RandomApp/English.lproj/MainMenu.xib
-cProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-asbtmcmmbtnaugbnannhxvnsrtmo/RandomApp_Prefix.pch.gch RandomApp_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o /Users/bryanwoods4e/Desktop/RandomApp/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o /Users/bryanwoods4e/Desktop/RandomApp/RandomAppAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp normal x86_64
-cTouch /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004A769DAB00000000000000EE
-t1249287595
-s238
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000004A1F2D63000000000000A5E0
-t1243557219
-s42464
-
-N/Users/bryanwoods4e/Desktop/RandomApp/English.lproj/InfoPlist.strings
-c000000004B4B7550000000000000002D
-t1263236432
-s45
-
-N/Users/bryanwoods4e/Desktop/RandomApp/English.lproj/MainMenu.xib
-c000000004B4B7550000000000002BB81
-t1263236432
-s179073
-
-N/Users/bryanwoods4e/Desktop/RandomApp/RandomAppAppDelegate.h
-c000000004B4B75500000000000000140
-t1263236432
-s320
-i<Cocoa/Cocoa.h>
-
-N/Users/bryanwoods4e/Desktop/RandomApp/RandomAppAppDelegate.m
-c000000004B4B75500000000000000177
-t1263236432
-s375
-i"RandomAppAppDelegate.h"
-
-N/Users/bryanwoods4e/Desktop/RandomApp/RandomApp_Prefix.pch
-c000000004B4B75500000000000000095
-t1263236432
-s149
-i<Cocoa/Cocoa.h>
-
-N/Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app
-t1263236483
-s102
-
-N/Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist
-t1263236477
-s892
-
-N/Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp
-t1263236483
-s14544
-
-N/Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/PkgInfo
-t1263236477
-s8
-
-N/Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings
-t1263236478
-s92
-
-N/Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/MainMenu.nib
-t1263236478
-s34414
-
-N/Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomApp.LinkFileList
-c000000004B4B757D00000000000000EE
-t1263236477
-s238
-
-N/Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o
-t1263236482
-s21152
-
-N/Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o
-t1263236482
-s4984
-
-N/Users/bryanwoods4e/Desktop/RandomApp/main.m
-c000000004B4B755000000000000000FE
-t1263236432
-s254
-i<Cocoa/Cocoa.h>
-
-N/var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-asbtmcmmbtnaugbnannhxvnsrtmo/RandomApp_Prefix.pch.gch
-t1263236481
-s54212368
-
-NRandomApp-Info.plist
-c000000004B4B755000000000000003EA
-t1263236432
-s1002
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies284929277#284929277#0(0"0(0#1#0"7947009927035180032#0"0#
-
-CCompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o /Users/bryanwoods4e/Desktop/RandomApp/RandomAppAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s284929282.022348
-e284929282.241857
-r1
-xCompileC
-xbuild/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o
-x/Users/bryanwoods4e/Desktop/RandomApp/RandomAppAppDelegate.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@68"Compile /Users/bryanwoods4e/Desktop/RandomApp/RandomAppAppDelegate.m284929282#284929282#0(0"0(0#0#60"/Users/bryanwoods4e/Desktop/RandomApp/RandomAppAppDelegate.m4300882208#1511"    cd /Users/bryanwoods4e/Desktop/RandomApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-generated-files.hmap -I/Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-project-headers.hmap -F/Users/bryanwoods4e/Desktop/RandomApp/build/Debug -I/Users/bryanwoods4e/Desktop/RandomApp/build/Debug/include -I/Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-asbtmcmmbtnaugbnannhxvnsrtmo/RandomApp_Prefix.pch -c /Users/bryanwoods4e/Desktop/RandomApp/RandomAppAppDelegate.m -o /Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o0#
-
-CCompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o /Users/bryanwoods4e/Desktop/RandomApp/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s284929281.986021
-e284929282.241162
-r1
-xCompileC
-xbuild/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o
-x/Users/bryanwoods4e/Desktop/RandomApp/main.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@52"Compile /Users/bryanwoods4e/Desktop/RandomApp/main.m284929281#284929282#0(0"0(0#0#44"/Users/bryanwoods4e/Desktop/RandomApp/main.m4300882208#1479"    cd /Users/bryanwoods4e/Desktop/RandomApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-generated-files.hmap -I/Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-project-headers.hmap -F/Users/bryanwoods4e/Desktop/RandomApp/build/Debug -I/Users/bryanwoods4e/Desktop/RandomApp/build/Debug/include -I/Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-asbtmcmmbtnaugbnannhxvnsrtmo/RandomApp_Prefix.pch -c /Users/bryanwoods4e/Desktop/RandomApp/main.m -o /Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o0#
-
-CCompileXIB /Users/bryanwoods4e/Desktop/RandomApp/English.lproj/MainMenu.xib
-s284929277.266352
-e284929278.410294
-r1
-xCompileXIB
-x/Users/bryanwoods4e/Desktop/RandomApp/English.lproj/MainMenu.xib
-lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib284929277#284929278#0(0"0(0#0#64"/Users/bryanwoods4e/Desktop/RandomApp/English.lproj/MainMenu.xib4300882208#326"    cd /Users/bryanwoods4e/Desktop/RandomApp    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/MainMenu.nib /Users/bryanwoods4e/Desktop/RandomApp/English.lproj/MainMenu.xib0#
-
-CCopyStringsFile /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-s284929277.264836
-e284929278.069329
-r1
-xCopyStringsFile
-x/Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings
-xEnglish.lproj/InfoPlist.strings
-lSLF07#2@36"Copy English.lproj/InfoPlist.strings284929277#284929278#0(0"0(0#0#69"/Users/bryanwoods4e/Desktop/RandomApp/English.lproj/InfoPlist.strings4300882208#365"    cd /Users/bryanwoods4e/Desktop/RandomApp    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj0#
-
-CLd /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp normal x86_64
-s284929282.241922
-e284929283.314655
-r1
-xLd
-x/Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp
-xnormal
-xx86_64
-lSLF07#2@93"Link /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp284929282#284929283#0(0"0(0#0#0"4300882208#547"    cd /Users/bryanwoods4e/Desktop/RandomApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/bryanwoods4e/Desktop/RandomApp/build/Debug -F/Users/bryanwoods4e/Desktop/RandomApp/build/Debug -filelist /Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomApp.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp0#
-
-CProcessInfoPlistFile /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist RandomApp-Info.plist
-s284929277.227729
-e284929277.264732
-r1
-xProcessInfoPlistFile
-x/Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist
-xRandomApp-Info.plist
-lSLF07#2@28"Process RandomApp-Info.plist284929277#284929277#0(0"0(0#0#58"/Users/bryanwoods4e/Desktop/RandomApp/RandomApp-Info.plist23081149960487028#313"    cd /Users/bryanwoods4e/Desktop/RandomApp    builtin-infoPlistUtility RandomApp-Info.plist -genpkginfo /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist0#
-
-CProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-asbtmcmmbtnaugbnannhxvnsrtmo/RandomApp_Prefix.pch.gch RandomApp_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s284929278.410470
-e284929281.985828
-r1
-xProcessPCH
-x/var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-asbtmcmmbtnaugbnannhxvnsrtmo/RandomApp_Prefix.pch.gch
-xRandomApp_Prefix.pch
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@31"Precompile RandomApp_Prefix.pch284929278#284929281#0(0"0(0#0#58"/Users/bryanwoods4e/Desktop/RandomApp/RandomApp_Prefix.pch4300882208#1384"    cd /Users/bryanwoods4e/Desktop/RandomApp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-generated-files.hmap -I/Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-project-headers.hmap -F/Users/bryanwoods4e/Desktop/RandomApp/build/Debug -I/Users/bryanwoods4e/Desktop/RandomApp/build/Debug/include -I/Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources -c /Users/bryanwoods4e/Desktop/RandomApp/RandomApp_Prefix.pch -o /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RandomApp_Prefix-asbtmcmmbtnaugbnannhxvnsrtmo/RandomApp_Prefix.pch.gch0#
-
-CTouch /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app
-s284929283.314756
-e284929283.317625
-r1
-xTouch
-x/Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app
-lSLF07#2@69"Touch /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app284929283#284929283#0(0"0(0#0#0"4300882208#131"    cd /Users/bryanwoods4e/Desktop/RandomApp    /usr/bin/touch -c /Users/bryanwoods4e/Desktop/RandomApp/build/Debug/RandomApp.app0#
-
