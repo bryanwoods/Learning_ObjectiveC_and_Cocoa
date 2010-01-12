@@ -49,8 +49,8 @@
 - (NSString *)description
 {
 	NSString *result;
-	result = [[NSString alloc] initWithFormat:@"%@ = %d and %d",
-			  [entryDate descriptionWithCalendarFormat:@"%b %d %Y"],
+	result = [[NSString alloc] initWithFormat:@"%@Winning numbers are %hi and %hi.",
+			  [entryDate descriptionWithCalendarFormat:@"%B %e, %Y: "],
 			  firstNumber, secondNumber];
 	return result;
 }
