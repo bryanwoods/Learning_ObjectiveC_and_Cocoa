@@ -4,6 +4,9 @@
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 77530D8610FC0587007627E2 /* lottery */;
 		activeTarget = 8DD76F960486AA7600D96B5E /* lottery */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* lottery */,
+		);
 		codeSenseManager = 77530D9210FC0591007627E2 /* Code sense */;
 		executables = (
 			77530D8610FC0587007627E2 /* lottery */,
@@ -38,6 +41,13 @@
 		userBuildSettings = {
 		};
 	};
+	08FB7796FE84155DC02AAC07 /* lottery.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1101, 574}}";
+			sepNavSelRange = "{514, 0}";
+			sepNavVisRange = "{0, 514}";
+		};
+	};
 	77530D8610FC0587007627E2 /* lottery */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
@@ -54,6 +64,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -61,6 +72,8 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = lottery;
+		savedGlobals = {
+		};
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
