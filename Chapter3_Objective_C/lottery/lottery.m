@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import "LotteryEnry.h"
+#import "LotteryEntry.h"
 
 int main (int argc, const char * argv[])
 {
@@ -27,7 +27,7 @@ int main (int argc, const char * argv[])
 		[array addObject:newEntry];
 	}
 	
-	for (i = 0; i < 10; i++) {
+	for (LotteryEntry *entryToPrint in array) {
 		NSLog(@"%@", entryToPrint);
 	}
 	
