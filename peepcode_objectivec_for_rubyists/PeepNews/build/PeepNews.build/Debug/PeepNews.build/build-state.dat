@@ -1,0 +1,98 @@
+TPeepNews
+v7
+r0
+t285016247.911418
+cCheck dependencies
+cProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PeepNews_Prefix-hfbioviuholyqmbssdmvzabwdrpp/PeepNews_Prefix.pch.gch PeepNews_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PeepNews.build/Debug/PeepNews.build/Objects-normal/x86_64/PeepNews.o /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/PeepNews.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/Debug/PeepNews normal x86_64
+
+N/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+c000000004A5830A90000000000046BD0
+t1247293609
+s289744
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A600B8400000000000013E6
+t1247808388
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A600BCB0000000000B37440
+t1247808459
+s11760704
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/PeepNews.m
+c000000004B4CADA700000000000000EA
+t1263316391
+s234
+i<Foundation/Foundation.h>
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/PeepNews_Prefix.pch
+c000000004B4CADA7000000000000009E
+t1263316391
+s158
+i<Foundation/Foundation.h>
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/Debug/PeepNews
+t1263323447
+s9400
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/Objects-normal/x86_64/PeepNews.LinkFileList
+c000000004B4CC93300000000000000AF
+t1263323443
+s175
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/Objects-normal/x86_64/PeepNews.o
+t1263323447
+s7076
+
+N/var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PeepNews_Prefix-hfbioviuholyqmbssdmvzabwdrpp/PeepNews_Prefix.pch.gch
+t1263323447
+s41405200
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies285016243#285016243#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/PeepNews.build/Debug/PeepNews.build/Objects-normal/x86_64/PeepNews.o /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/PeepNews.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s285016247.732172
+e285016247.852393
+r1
+xCompileC
+xbuild/PeepNews.build/Debug/PeepNews.build/Objects-normal/x86_64/PeepNews.o
+x/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/PeepNews.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/PeepNews.m285016247#285016247#0(0"0(0#0#110"/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/PeepNews.m8386658438684303360#2181"    cd /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/PeepNews-generated-files.hmap -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/PeepNews-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/PeepNews-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/PeepNews-project-headers.hmap -F/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/Debug -F/Developer/Library/Frameworks -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/Debug/include -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PeepNews_Prefix-hfbioviuholyqmbssdmvzabwdrpp/PeepNews_Prefix.pch -c /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/PeepNews.m -o /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/Objects-normal/x86_64/PeepNews.o0#
+
+CLd /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/Debug/PeepNews normal x86_64
+s285016247.852498
+e285016247.911350
+r1
+xLd
+x/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/Debug/PeepNews
+xnormal
+xx86_64
+lSLF07#2@125"Link /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/Debug/PeepNews285016247#285016247#0(0"0(0#0#0"4300882208#886"    cd /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/Debug -F/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/Debug -F/Developer/Library/Frameworks -filelist /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/Objects-normal/x86_64/PeepNews.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -framework SenTestingKit -o /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/Debug/PeepNews0#
+
+CProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PeepNews_Prefix-hfbioviuholyqmbssdmvzabwdrpp/PeepNews_Prefix.pch.gch PeepNews_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s285016243.523170
+e285016247.732026
+r1
+xProcessPCH
+x/var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PeepNews_Prefix-hfbioviuholyqmbssdmvzabwdrpp/PeepNews_Prefix.pch.gch
+xPeepNews_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile PeepNews_Prefix.pch285016243#285016247#0(0"0(0#0#119"/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/PeepNews_Prefix.pch7300387168854565888#2017"    cd /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/PeepNews-generated-files.hmap -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/PeepNews-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/PeepNews-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/PeepNews-project-headers.hmap -F/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/Debug -F/Developer/Library/Frameworks -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/Debug/include -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/build/PeepNews.build/Debug/PeepNews.build/DerivedSources -c /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/peepcode_objectivec_for_rubyists/PeepNews/PeepNews_Prefix.pch -o /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PeepNews_Prefix-hfbioviuholyqmbssdmvzabwdrpp/PeepNews_Prefix.pch.gch0#
+

@@ -4,6 +4,9 @@
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 777EF39F10FCE52700F7155D /* PeepNews */;
 		activeTarget = 8DD76F960486AA7600D96B5E /* PeepNews */;
+		addToTargets = (
+			77353E0810FCFD3C007767B1 /* Test */,
+		);
 		codeSenseManager = 777EF3AB10FCE53300F7155D /* Code sense */;
 		executables = (
 			777EF39F10FCE52700F7155D /* PeepNews */,
@@ -14,9 +17,9 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					923,
+					938,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -31,12 +34,74 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 285009191;
-			PBXWorkspaceStateSaveDate = 285009191;
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					878.20849609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					898,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 285016232;
+			PBXWorkspaceStateSaveDate = 285016232;
+		};
+		perUserProjectItems = {
+			775A678910FD103C00AFAEA4 /* PBXTextBookmark */ = 775A678910FD103C00AFAEA4 /* PBXTextBookmark */;
+			77DF028810FCFEFE007C4BFC /* PBXTextBookmark */ = 77DF028810FCFEFE007C4BFC /* PBXTextBookmark */;
 		};
 		sourceControlManager = 777EF3AA10FCE53300F7155D /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	77353E0810FCFD3C007767B1 /* Test */ = {
+		activeExec = 0;
+	};
+	77353E1410FCFEA3007767B1 /* SyntaxTest.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1116, 522}}";
+			sepNavSelRange = "{227, 0}";
+			sepNavVisRange = "{0, 227}";
+		};
+	};
+	775A678910FD103C00AFAEA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77353E1410FCFEA3007767B1 /* SyntaxTest.h */;
+		name = "SyntaxTest.h: 17";
+		rLen = 0;
+		rLoc = 227;
+		rType = 0;
+		vrLen = 227;
+		vrLoc = 0;
 	};
 	777EF39F10FCE52700F7155D /* PeepNews */ = {
 		isa = PBXExecutable;
@@ -54,6 +119,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -61,6 +127,8 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = PeepNews;
+		savedGlobals = {
+		};
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
@@ -78,6 +146,16 @@
 	777EF3AB10FCE53300F7155D /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	77DF028810FCFEFE007C4BFC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77353E1410FCFEA3007767B1 /* SyntaxTest.h */;
+		name = "SyntaxTest.h: 17";
+		rLen = 0;
+		rLoc = 227;
+		rType = 0;
+		vrLen = 227;
+		vrLoc = 0;
 	};
 	8DD76F960486AA7600D96B5E /* PeepNews */ = {
 		activeExec = 0;
