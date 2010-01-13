@@ -327,11 +327,13 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>77B4B91B10FD951200B354D9</string>
+										<string>77B4B92F10FD9D6600B354D9</string>
 										<key>history</key>
 										<array>
-											<string>77B4B91710FD950000B354D9</string>
-											<string>77B4B90D10FD944F00B354D9</string>
+											<string>77B4B92B10FD9D6600B354D9</string>
+											<string>77B4B92C10FD9D6600B354D9</string>
+											<string>77B4B92D10FD9D6600B354D9</string>
+											<string>77B4B92E10FD9D6600B354D9</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -529,12 +531,13 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>77B4B93010FD9D6600B354D9</string>
 		<string>77B4B90610FD93FE00B354D9</string>
 		<string>77B4B90710FD93FE00B354D9</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>779E9D2D10FC587900917CEC</string>
 		<string>/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/SpeakLine.xcodeproj</string>
+		<string>1C78EAAD065D492600B07095</string>
 	</array>
 	<key>WindowString</key>
 	<string>0 60 1440 818 0 0 1440 878 </string>
@@ -918,7 +921,7 @@
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>Identifier</key>

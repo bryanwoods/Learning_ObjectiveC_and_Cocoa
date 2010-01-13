@@ -13,6 +13,8 @@
 	IBOutlet NSTextField *textField;
 	IBOutlet NSButton *stopButton;
 	IBOutlet NSButton *startButton;
+	IBOutlet NSTableView *tableView;
+	NSArray *voiceList;
 	NSSpeechSynthesizer *speechSynth;
 }
 - (IBAction)sayIt:(id)sender;
