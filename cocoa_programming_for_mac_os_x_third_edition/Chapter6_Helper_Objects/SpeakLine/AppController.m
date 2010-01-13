@@ -21,6 +21,7 @@
 	// Create a new instance of NSSpeechSynthesizer
 	// With the default voice
 	speechSynth = [[NSSpeechSynthesizer alloc] initWithVoice:nil];
+	[speechSynth setDelegate:self];
 	return self;
 }
 
@@ -35,12 +36,22 @@
 	}
 	[speechSynth startSpeakingString:string];
 	NSLog(@"Have started to say: %@", string);
+	[stopButton setEnabled:YES];
+	[startButton setEnabled:NO];
 }
 
 - (IBAction)stopIt:(id)sender
 {
 	NSLog(@"stopping");
 	[speechSynth stopSpeaking];
+}
+
+- (void)speechSynthesizer:(NSSpeechSynthesizer *)sender
+		didFinishSpeaking:(BOOL)complete
+{
+	NSLog(@"complete = %d", complete);
+	[stopButton setEnabled:NO];
+	[startButton setEnabled:YES];
 }
 
 @end

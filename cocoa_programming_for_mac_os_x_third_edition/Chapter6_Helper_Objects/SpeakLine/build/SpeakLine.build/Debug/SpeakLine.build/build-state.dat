@@ -1,17 +1,17 @@
 TSpeakLine
 v7
 r0
-t284975351.432830
+t285054207.105485
 cCheck dependencies
-cProcessInfoPlistFile /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist SpeakLine-Info.plist
-cCopyStringsFile /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-cCompileXIB /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/English.lproj/MainMenu.xib
-cProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakLine_Prefix-edwqnlkwdfxjkqhhwmrroxlyvbnd/SpeakLine_Prefix.pch.gch SpeakLine_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLineAppDelegate.o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/SpeakLineAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/AppController.o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine normal x86_64
-cTouch /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app
+cProcessInfoPlistFile /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist SpeakLine-Info.plist
+cCopyStringsFile /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakLine_Prefix-alzhosmjesjvkqfawsemuczovhls/SpeakLine_Prefix.pch.gch SpeakLine_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLineAppDelegate.o /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/SpeakLineAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/AppController.o /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine normal x86_64
+cTouch /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app
 
 N/Developer/SDKs/MacOSX10.6.sdk
 c000000004A769DAB00000000000000EE
@@ -27,6 +27,93 @@ N/System/Library/Frameworks/Cocoa.framework/Cocoa
 c000000004A1F2D63000000000000A5E0
 t1243557219
 s42464
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/AppController.h
+c000000004B4D5CB40000000000000198
+t1263361204
+s408
+i<Cocoa/Cocoa.h>
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/AppController.m
+c000000004B4D5D730000000000000459
+t1263361395
+s1113
+i"AppController.h"
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/English.lproj/InfoPlist.strings
+c000000004B4C20F0000000000000002D
+t1263280368
+s45
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/English.lproj/MainMenu.xib
+c000000004B4D5D35000000000002EAA0
+t1263361333
+s191136
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/SpeakLineAppDelegate.h
+c000000004B4C20F00000000000000140
+t1263280368
+s320
+i<Cocoa/Cocoa.h>
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/SpeakLineAppDelegate.m
+c000000004B4C20F00000000000000177
+t1263280368
+s375
+i"SpeakLineAppDelegate.h"
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/SpeakLine_Prefix.pch
+c000000004B4C20F00000000000000095
+t1263280368
+s149
+i<Cocoa/Cocoa.h>
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app
+t1263361407
+s102
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist
+t1263281058
+s892
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine
+t1263361407
+s17152
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app/Contents/PkgInfo
+t1263281058
+s8
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1263281058
+s92
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/MainMenu.nib
+t1263361406
+s37305
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/AppController.o
+t1263361406
+s19468
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLine.LinkFileList
+c000000004B4D5BE6000000000000028F
+t1263360998
+s655
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLineAppDelegate.o
+t1263361001
+s21344
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o
+t1263361001
+s5184
+
+N/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/main.m
+c000000004B4C20F000000000000000FE
+t1263280368
+s254
+i<Cocoa/Cocoa.h>
 
 N/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/AppController.h
 c000000004B4C23E80000000000000157
@@ -115,6 +202,10 @@ t1263280368
 s254
 i<Cocoa/Cocoa.h>
 
+N/var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakLine_Prefix-alzhosmjesjvkqfawsemuczovhls/SpeakLine_Prefix.pch.gch
+t1263361001
+s54212368
+
 N/var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakLine_Prefix-edwqnlkwdfxjkqhhwmrroxlyvbnd/SpeakLine_Prefix.pch.gch
 t1263281062
 s54212368
@@ -126,7 +217,22 @@ s1002
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies284975351#284975351#0(0"0(0#1#0"4300882208#0"0#
+lSLF07#2@18"Check dependencies285054205#285054205#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/AppController.o /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s285054206.563844
+e285054206.957127
+r1
+xCompileC
+xbuild/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/AppController.o
+x/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/AppController.m: In function '-[AppController init]':
+o/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/AppController.m:24: warning: class 'AppController' does not implement the 'NSSpeechSynthesizerDelegate' protocol
+lSLF07#2@160"Compile /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/AppController.m285054206#285054206#0(441"/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/AppController.m: In function '-[AppController init]':/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/AppController.m:24: warning: class 'AppController' does not implement the 'NSSpeechSynthesizerDelegate' protocol1(22@83"Class 'AppController' does not implement the 'NSSpeechSynthesizerDelegate' protocol285054206#191#250#0(6@152"/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/AppController.m285054195#24#0#24#0#45"class '*' does not implement the '*' protocol0(0#0#152"/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/AppController.m4300882208#2586"    cd /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-generated-files.hmap -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-project-headers.hmap -F/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/include -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakLine_Prefix-alzhosmjesjvkqfawsemuczovhls/SpeakLine_Prefix.pch -c /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/AppController.m -o /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/AppController.o0#
 
 CCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/AppController.o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s284974319.007801
@@ -141,6 +247,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@129"Compile /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/AppController.m284974319#284974319#0(0"0(0#0#121"/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/AppController.m4300882208#2245"    cd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-generated-files.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-project-headers.hmap -F/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/include -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakLine_Prefix-edwqnlkwdfxjkqhhwmrroxlyvbnd/SpeakLine_Prefix.pch -c /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/AppController.m -o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/AppController.o0#
 
+CCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLineAppDelegate.o /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/SpeakLineAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s285053801.201340
+e285053801.389240
+r1
+xCompileC
+xbuild/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLineAppDelegate.o
+x/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/SpeakLineAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@167"Compile /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/SpeakLineAppDelegate.m285053801#285053801#0(0"0(0#0#159"/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/SpeakLineAppDelegate.m4300882208#2600"    cd /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-generated-files.hmap -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-project-headers.hmap -F/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/include -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakLine_Prefix-alzhosmjesjvkqfawsemuczovhls/SpeakLine_Prefix.pch -c /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/SpeakLineAppDelegate.m -o /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLineAppDelegate.o0#
+
 CCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLineAppDelegate.o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/SpeakLineAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s284973862.652628
 e284973862.840949
@@ -153,6 +272,19 @@ xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@136"Compile /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/SpeakLineAppDelegate.m284973862#284973862#0(0"0(0#0#128"/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/SpeakLineAppDelegate.m4300882208#2259"    cd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-generated-files.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-project-headers.hmap -F/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/include -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakLine_Prefix-edwqnlkwdfxjkqhhwmrroxlyvbnd/SpeakLine_Prefix.pch -c /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/SpeakLineAppDelegate.m -o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLineAppDelegate.o0#
+
+CCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s285053801.200253
+e285053801.340839
+r1
+xCompileC
+xbuild/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o
+x/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@151"Compile /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/main.m285053801#285053801#0(0"0(0#0#143"/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/main.m4300882208#2568"    cd /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-generated-files.hmap -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-project-headers.hmap -F/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/include -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakLine_Prefix-alzhosmjesjvkqfawsemuczovhls/SpeakLine_Prefix.pch -c /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/main.m -o /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o0#
 
 CCompileC build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s284973862.651535
@@ -167,6 +299,14 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@120"Compile /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/main.m284973862#284973862#0(0"0(0#0#112"/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/main.m4300882208#2227"    cd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-generated-files.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-project-headers.hmap -F/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/include -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakLine_Prefix-edwqnlkwdfxjkqhhwmrroxlyvbnd/SpeakLine_Prefix.pch -c /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/main.m -o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/main.o0#
 
+CCompileXIB /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/English.lproj/MainMenu.xib
+s285054205.472112
+e285054206.563350
+r1
+xCompileXIB
+x/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib285054205#285054206#0(0"0(0#0#163"/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/English.lproj/MainMenu.xib4300882208#623"    cd /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/MainMenu.nib /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/English.lproj/MainMenu.xib0#
+
 CCompileXIB /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/English.lproj/MainMenu.xib
 s284973858.764879
 e284973859.203685
@@ -174,6 +314,9 @@ r1
 xCompileXIB
 x/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/English.lproj/MainMenu.xib
 lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib284973858#284973859#0(0"0(0#0#132"/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/English.lproj/MainMenu.xib4300882208#530"    cd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/MainMenu.nib /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
 
 CCopyStringsFile /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
 s284973858.764175
@@ -183,6 +326,16 @@ xCopyStringsFile
 x/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj/InfoPlist.strings
 xEnglish.lproj/InfoPlist.strings
 lSLF07#2@36"Copy English.lproj/InfoPlist.strings284973858#284973858#0(0"0(0#0#137"/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/English.lproj/InfoPlist.strings4300882208#501"    cd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app/Contents/Resources/English.lproj0#
+
+CLd /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine normal x86_64
+s285054206.957245
+e285054207.094738
+r1
+xLd
+x/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine
+xnormal
+xx86_64
+lSLF07#2@192"Link /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine285054206#285054207#0(0"0(0#0#0"4300882208#1042"    cd /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug -F/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug -filelist /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLine.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine0#
 
 CLd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine normal x86_64
 s284974319.370591
@@ -194,6 +347,9 @@ xnormal
 xx86_64
 lSLF07#2@161"Link /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine284974319#284974319#0(0"0(0#0#0"4300882208#887"    cd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug -F/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug -filelist /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/Objects-normal/x86_64/SpeakLine.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app/Contents/MacOS/SpeakLine0#
 
+CProcessInfoPlistFile /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist SpeakLine-Info.plist
+r0
+
 CProcessInfoPlistFile /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist SpeakLine-Info.plist
 s284973858.760205
 e284973858.764103
@@ -202,6 +358,19 @@ xProcessInfoPlistFile
 x/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist
 xSpeakLine-Info.plist
 lSLF07#2@28"Process SpeakLine-Info.plist284973858#284973858#0(0"0(0#0#126"/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/SpeakLine-Info.plist4300882208#517"    cd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine    builtin-infoPlistUtility SpeakLine-Info.plist -genpkginfo /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakLine_Prefix-alzhosmjesjvkqfawsemuczovhls/SpeakLine_Prefix.pch.gch SpeakLine_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s285053798.079934
+e285053801.200019
+r1
+xProcessPCH
+x/var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakLine_Prefix-alzhosmjesjvkqfawsemuczovhls/SpeakLine_Prefix.pch.gch
+xSpeakLine_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile SpeakLine_Prefix.pch285053798#285053801#0(0"0(0#0#157"/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/SpeakLine_Prefix.pch8093865128201905152#2374"    cd /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-generated-files.hmap -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-project-headers.hmap -F/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/include -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources -c /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/SpeakLine_Prefix.pch -o /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakLine_Prefix-alzhosmjesjvkqfawsemuczovhls/SpeakLine_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakLine_Prefix-edwqnlkwdfxjkqhhwmrroxlyvbnd/SpeakLine_Prefix.pch.gch SpeakLine_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s284973859.203800
@@ -215,6 +384,14 @@ xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@31"Precompile SpeakLine_Prefix.pch284973859#284973862#0(0"0(0#0#126"/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/SpeakLine_Prefix.pch4300882208#2064"    cd /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-generated-files.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/SpeakLine-project-headers.hmap -F/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/include -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/SpeakLine.build/Debug/SpeakLine.build/DerivedSources -c /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/SpeakLine_Prefix.pch -o /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpeakLine_Prefix-edwqnlkwdfxjkqhhwmrroxlyvbnd/SpeakLine_Prefix.pch.gch0#
+
+CTouch /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app
+s285054207.094895
+e285054207.105428
+r1
+xTouch
+x/Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app
+lSLF07#2@168"Touch /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app285054207#285054207#0(0"0(0#0#0"4300882208#329"    cd /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine    /usr/bin/touch -c /Users/bryanwoods4e/Desktop/Learning_ObjectiveC_and_Cocoa/cocoa_programming_for_mac_os_x_third_edition/Chapter6_Helper_Objects/SpeakLine/build/Debug/SpeakLine.app0#
 
 CTouch /Users/bryanwoods4e/Desktop/cocoa_programming_for_mac_os_x_third_edition/Chapter5_Target_Action/SpeakLine/build/Debug/SpeakLine.app
 s284974319.404579
