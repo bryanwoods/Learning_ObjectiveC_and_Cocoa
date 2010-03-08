@@ -1,0 +1,226 @@
+TKVCFun
+v7
+r0
+t289768653.022678
+cCheck dependencies
+cProcessInfoPlistFile /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/Info.plist KVCFun-Info.plist
+cCopyStringsFile /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/bryanwoods4e/Desktop/KVCFun/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVCFun_Prefix-gxupgranrcmmaubqcptwubwsewov/KVCFun_Prefix.pch.gch KVCFun_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/main.o /Users/bryanwoods4e/Desktop/KVCFun/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/KVCFunAppDelegate.o /Users/bryanwoods4e/Desktop/KVCFun/KVCFunAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/AppController.o /Users/bryanwoods4e/Desktop/KVCFun/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/MacOS/KVCFun normal x86_64
+cTouch /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B50402C00000000000000EE
+t1263550508
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/bryanwoods4e/Desktop/KVCFun/AppController.h
+c000000004B954C280000000000000121
+t1268075560
+s289
+i<Cocoa/Cocoa.h>
+
+N/Users/bryanwoods4e/Desktop/KVCFun/AppController.m
+c000000004B954D4400000000000002AC
+t1268075844
+s684
+i"AppController.h"
+
+N/Users/bryanwoods4e/Desktop/KVCFun/English.lproj/InfoPlist.strings
+c000000004B9547A8000000000000002D
+t1268074408
+s45
+
+N/Users/bryanwoods4e/Desktop/KVCFun/English.lproj/MainMenu.xib
+c000000004B954CE0000000000002ED95
+t1268075744
+s191893
+
+N/Users/bryanwoods4e/Desktop/KVCFun/KVCFunAppDelegate.h
+c000000004B9547A8000000000000012E
+t1268074408
+s302
+i<Cocoa/Cocoa.h>
+
+N/Users/bryanwoods4e/Desktop/KVCFun/KVCFunAppDelegate.m
+c000000004B9547A80000000000000162
+t1268074408
+s354
+i"KVCFunAppDelegate.h"
+
+N/Users/bryanwoods4e/Desktop/KVCFun/KVCFun_Prefix.pch
+c000000004B9547A8000000000000008F
+t1268074408
+s143
+i<Cocoa/Cocoa.h>
+
+N/Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app
+t1268075853
+s102
+
+N/Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/Info.plist
+t1268074476
+s883
+
+N/Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/MacOS/KVCFun
+t1268075853
+s15920
+
+N/Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/PkgInfo
+t1268074476
+s8
+
+N/Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1268074477
+s92
+
+N/Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/Resources/English.lproj/MainMenu.nib
+t1268075747
+s37499
+
+N/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/AppController.o
+t1268075852
+s11108
+
+N/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/KVCFun.LinkFileList
+c000000004B9547EC0000000000000148
+t1268074476
+s328
+
+N/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/KVCFunAppDelegate.o
+t1268074480
+s21072
+
+N/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/main.o
+t1268074480
+s4984
+
+N/Users/bryanwoods4e/Desktop/KVCFun/main.m
+c000000004B9547A800000000000000F2
+t1268074408
+s242
+i<Cocoa/Cocoa.h>
+
+N/var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVCFun_Prefix-gxupgranrcmmaubqcptwubwsewov/KVCFun_Prefix.pch.gch
+t1268074480
+s54208272
+
+NKVCFun-Info.plist
+c000000004B9547A800000000000003EA
+t1268074408
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289768652#289768652#0(0"0(0#1#0"4300903632#0"0#
+
+CCompileC build/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/AppController.o /Users/bryanwoods4e/Desktop/KVCFun/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s289768652.624402
+e289768652.984123
+r1
+xCompileC
+xbuild/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/AppController.o
+x/Users/bryanwoods4e/Desktop/KVCFun/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/bryanwoods4e/Desktop/KVCFun/AppController.m289768652#289768652#0(0"0(0#0#50"/Users/bryanwoods4e/Desktop/KVCFun/AppController.m4300903632#1404"    cd /Users/bryanwoods4e/Desktop/KVCFun    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-generated-files.hmap -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-project-headers.hmap -F/Users/bryanwoods4e/Desktop/KVCFun/build/Debug -I/Users/bryanwoods4e/Desktop/KVCFun/build/Debug/include -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVCFun_Prefix-gxupgranrcmmaubqcptwubwsewov/KVCFun_Prefix.pch -c /Users/bryanwoods4e/Desktop/KVCFun/AppController.m -o /Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/AppController.o0#
+
+CCompileC build/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/KVCFunAppDelegate.o /Users/bryanwoods4e/Desktop/KVCFun/KVCFunAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s289767280.552958
+e289767280.814346
+r1
+xCompileC
+xbuild/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/KVCFunAppDelegate.o
+x/Users/bryanwoods4e/Desktop/KVCFun/KVCFunAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/bryanwoods4e/Desktop/KVCFun/KVCFunAppDelegate.m289767280#289767280#0(0"0(0#0#54"/Users/bryanwoods4e/Desktop/KVCFun/KVCFunAppDelegate.m4300903632#1412"    cd /Users/bryanwoods4e/Desktop/KVCFun    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-generated-files.hmap -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-project-headers.hmap -F/Users/bryanwoods4e/Desktop/KVCFun/build/Debug -I/Users/bryanwoods4e/Desktop/KVCFun/build/Debug/include -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVCFun_Prefix-gxupgranrcmmaubqcptwubwsewov/KVCFun_Prefix.pch -c /Users/bryanwoods4e/Desktop/KVCFun/KVCFunAppDelegate.m -o /Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/KVCFunAppDelegate.o0#
+
+CCompileC build/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/main.o /Users/bryanwoods4e/Desktop/KVCFun/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s289767280.551944
+e289767280.799507
+r1
+xCompileC
+xbuild/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/main.o
+x/Users/bryanwoods4e/Desktop/KVCFun/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/bryanwoods4e/Desktop/KVCFun/main.m289767280#289767280#0(0"0(0#0#41"/Users/bryanwoods4e/Desktop/KVCFun/main.m4300903632#1386"    cd /Users/bryanwoods4e/Desktop/KVCFun    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-generated-files.hmap -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-project-headers.hmap -F/Users/bryanwoods4e/Desktop/KVCFun/build/Debug -I/Users/bryanwoods4e/Desktop/KVCFun/build/Debug/include -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVCFun_Prefix-gxupgranrcmmaubqcptwubwsewov/KVCFun_Prefix.pch -c /Users/bryanwoods4e/Desktop/KVCFun/main.m -o /Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/bryanwoods4e/Desktop/KVCFun/English.lproj/MainMenu.xib
+s289768547.071042
+e289768547.407842
+r1
+xCompileXIB
+x/Users/bryanwoods4e/Desktop/KVCFun/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib289768547#289768547#0(0"0(0#0#61"/Users/bryanwoods4e/Desktop/KVCFun/English.lproj/MainMenu.xib4300903632#314"    cd /Users/bryanwoods4e/Desktop/KVCFun    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/Resources/English.lproj/MainMenu.nib /Users/bryanwoods4e/Desktop/KVCFun/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s289767276.855745
+e289767277.228246
+r1
+xCopyStringsFile
+x/Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings289767276#289767277#0(0"0(0#0#66"/Users/bryanwoods4e/Desktop/KVCFun/English.lproj/InfoPlist.strings4300903632#356"    cd /Users/bryanwoods4e/Desktop/KVCFun    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/Resources/English.lproj0#
+
+CLd /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/MacOS/KVCFun normal x86_64
+s289768652.984208
+e289768653.019936
+r1
+xLd
+x/Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/MacOS/KVCFun
+xnormal
+xx86_64
+lSLF07#2@84"Link /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/MacOS/KVCFun289768652#289768653#0(0"0(0#0#0"4300903632#517"    cd /Users/bryanwoods4e/Desktop/KVCFun    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/bryanwoods4e/Desktop/KVCFun/build/Debug -F/Users/bryanwoods4e/Desktop/KVCFun/build/Debug -filelist /Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/Objects-normal/x86_64/KVCFun.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/MacOS/KVCFun0#
+
+CProcessInfoPlistFile /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/Info.plist KVCFun-Info.plist
+s289767276.821578
+e289767276.855655
+r1
+xProcessInfoPlistFile
+x/Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/Info.plist
+xKVCFun-Info.plist
+lSLF07#2@25"Process KVCFun-Info.plist289767276#289767276#0(0"0(0#0#52"/Users/bryanwoods4e/Desktop/KVCFun/KVCFun-Info.plist19703536138190924#295"    cd /Users/bryanwoods4e/Desktop/KVCFun    builtin-infoPlistUtility KVCFun-Info.plist -genpkginfo /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVCFun_Prefix-gxupgranrcmmaubqcptwubwsewov/KVCFun_Prefix.pch.gch KVCFun_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s289767277.253205
+e289767280.551740
+r1
+xProcessPCH
+x/var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVCFun_Prefix-gxupgranrcmmaubqcptwubwsewov/KVCFun_Prefix.pch.gch
+xKVCFun_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile KVCFun_Prefix.pch289767277#289767280#0(0"0(0#0#52"/Users/bryanwoods4e/Desktop/KVCFun/KVCFun_Prefix.pch4300903632#1297"    cd /Users/bryanwoods4e/Desktop/KVCFun    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-generated-files.hmap -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/KVCFun-project-headers.hmap -F/Users/bryanwoods4e/Desktop/KVCFun/build/Debug -I/Users/bryanwoods4e/Desktop/KVCFun/build/Debug/include -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/DerivedSources/x86_64 -I/Users/bryanwoods4e/Desktop/KVCFun/build/KVCFun.build/Debug/KVCFun.build/DerivedSources -c /Users/bryanwoods4e/Desktop/KVCFun/KVCFun_Prefix.pch -o /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/KVCFun_Prefix-gxupgranrcmmaubqcptwubwsewov/KVCFun_Prefix.pch.gch0#
+
+CTouch /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app
+s289768653.020028
+e289768653.022494
+r1
+xTouch
+x/Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app
+lSLF07#2@63"Touch /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app289768653#289768653#0(0"0(0#0#0"4300903632#122"    cd /Users/bryanwoods4e/Desktop/KVCFun    /usr/bin/touch -c /Users/bryanwoods4e/Desktop/KVCFun/build/Debug/KVCFun.app0#
+
