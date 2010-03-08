@@ -13,8 +13,6 @@
 	int fido;
 }
 
-- (int)fido;
-- (void)setFido:(int)x;
-- (IBAction)incrementFido:(id)sender;
+@property(readwrite, assign) int fido;
 
 @end

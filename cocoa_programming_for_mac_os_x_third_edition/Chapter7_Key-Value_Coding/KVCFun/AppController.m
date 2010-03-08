@@ -10,6 +10,7 @@
 
 
 @implementation AppController
+@synthesize fido;
 
 - (id)init
 {
@@ -19,18 +20,6 @@
 	NSNumber *n = [self valueForKey:@"fido"];
 	NSLog(@"fido = %@", n);
 	return self;
-}
-
-- (int)fido
-{
-	NSLog(@"-fido is returning %d", fido);
-	return fido;
-}
-
-- (void)setFido:(int)x
-{
-	NSLog(@"-setFido: is called with %d", x);
-	fido = x;
 }
 
 - (IBAction)incrementFido:(id)sender
